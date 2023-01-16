@@ -1,0 +1,13 @@
+.container {
+    border: 2px solid black;
+    border-radius: 10px;
+    height: auto;
+    width: 790px;
+    margin-bottom: 40px;
+
+}
+
+.Title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+}
